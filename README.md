@@ -21,4 +21,4 @@ Instead of replacing my MacBook, chose a more creative path. Building a remote c
 
 ✅ Purchased all components
 
-📄 Full part list and pricing can be found in hardware.md
+📄 Full part list and pricing can be found in [hardware.md](hardware.md)
