@@ -4,7 +4,7 @@ This file lists all hardware components used in the project, along with explanat
 
 # ⚙️ Components
 
-# 🧠 CPU – AMD Ryzen 9 7900 (3.7GHz, AM5)
+# 🧠 CPU – [AMD Ryzen 9 7900 (3.7GHz, AM5)](https://ksp.co.il/mob/item/247019?s_source=share)
 	•	Price: $486
 	•	Quantity: 1
 	•	Reason: My MacBook Pro already has a high-end processor, so I aimed for a CPU that balances power with cost. The 7900 is strong enough for my use case without overspending on unnecessary performance, yet still handles complex tasks with ease.
