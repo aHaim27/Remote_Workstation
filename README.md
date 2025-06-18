@@ -1,19 +1,27 @@
-# Remote_Workstation Project explanation 🖥️🛜
+# 🖥️🛜 Remote Workstation – Project Overview
 
-This is a repository for a workstation built for using remotely from a laptop in order to execute and practice ethical hacking
+This repository documents the process of building a powerful workstation designed to be accessed remotely from my MacBook Pro. The goal is to create a system optimized for ethical hacking practice and tasks that require hardware or OS flexibility beyond what macOS allows.
 
-# Thought Process 🧠⚙️
+⸻
 
-I started this project out of frustration. My Macbook struggles using it's amazing hardware (M4 Max, 64GB RAM).
-most of the things I want to try and practice, I find unable because Apple stops me.
-that's why I went on a mission to make myslef something that I can use my current Macbook as a boost.
+# 🧠⚙️ Thought Process
 
-Something that will complete it, not replace it.
+This project was born out of frustration.
 
-I want to make a practice lab, a home server and a powerful enough hardware to connect from a far my Macbook to in order to use anything my Macbook won't allow me (currently: a powerful GPU & any OS I want...)
-the first thing I plan on using it for is WPA/WPA2 handshake crack with a wordlist on my home network.
+Despite owning a high-end MacBook Pro (M4 Max, 64GB RAM), I kept encountering limitations — especially when it comes to ethical hacking labs and GPU-intensive tasks. Apple’s ecosystem often prevents me from running the tools and environments I need (e.g., GPU acceleration, custom OS setups, etc.).
 
-# 1st milestone - Planning and ordering 📝💲
+So, instead of replacing my MacBook, I decided to build a remote companion workstation — a system that complements it. Something I can connect to over the network and use for whatever macOS restricts.
 
-Finished deciding what parts of hardware to use and purchased all the parts.
-parts and prices included in the file -> "hardware.md"
+Use cases include:
+	•	Penetration testing and ethical hacking labs
+	•	GPU-based cracking tasks (e.g., WPA/WPA2 handshake with wordlists)
+	•	Running any OS I need via virtualization or dual-boot
+	•	Creating a future home server/lab environment
+
+⸻
+
+# 📍 1st Milestone – Planning & Ordering
+
+✅ Hardware planning completed
+✅ All components purchased
+📝 See ״hardware.md״ for full part list and pricing
