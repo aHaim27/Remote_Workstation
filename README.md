@@ -15,10 +15,3 @@ Instead of replacing my MacBook, chose a more creative path. Building a remote c
 	•	⚡ GPU-based cracking (e.g., WPA/WPA2 handshakes with large wordlists)
 	•	🧪 Running custom OSes via virtualization or dual-boot
 	•	🏠 Hosting a home lab/server environment for continuous learning
-
-# 📍 1st Milestone – Planning & Ordering:
-✅ Finalized hardware selection
-
-✅ Purchased all components
-
-📄 Full part list and pricing can be found in [hardware.md](hardware.md)
