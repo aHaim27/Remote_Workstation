@@ -1,6 +1,6 @@
 # 🖥️🛜 Remote Workstation – Project Overview
 
-This repository documents the process of building a powerful remote-access workstation, designed to complement my MacBook Pro and expand its capabilities for ethical hacking and high-performance tasks.
+This repository documents the process of building a powerful remote-access workstation, designed to compliment my MacBook Pro and expand its capabilities for ethical hacking and high-performance tasks.
 
 # 🧠⚙️ Thought Process
 
