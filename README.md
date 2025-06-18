@@ -1,23 +1,23 @@
 # 🖥️🛜 Remote Workstation – Project Overview
 
-This repository documents the process of building a powerful workstation designed to be accessed remotely from my MacBook Pro. The goal is to create a system optimized for ethical hacking practice and tasks that require hardware or OS flexibility beyond what macOS allows.
+This repository documents the process of building a powerful remote-access workstation, designed to complement my MacBook Pro and expand its capabilities for ethical hacking and high-performance tasks.
 
 # 🧠⚙️ Thought Process
 
-This project was born out of frustration that very quickly turned into creativity.
+This project started out of frustration — yet quickly turned into creativity.
 
-Despite owning a high-end MacBook Pro (M4 Max, 64GB RAM), I kept encountering limitations — especially when it came to ethical hacking labs and GPU-intensive tasks. Apple’s ecosystem often prevents me from running the tools and environments I need (e.g., GPU acceleration, custom OS setups, etc.).
+Although I own a top-tier MacBook Pro (M4 Max, 64GB RAM), I kept hitting limitations — especially when dealing with ethical hacking labs and GPU-intensive operations. Apple’s ecosystem often restricts access to essential tools, OS customization, and hardware acceleration (e.g., GPU cracking).
 
-So, instead of replacing my MacBook, I decided to build a remote companion workstation — a system that complements it. Something I can connect to over the network, turn it remotely on and off when ever I want, and use it for whatever macOS restricts.
+Instead of replacing my MacBook, chose a more creative path. Building a remote companion — a machine I can access from anywhere, power on/off remotely, and use for tasks that macOS unfortunately restrict.
 
-Use cases include:
-	•	Penetration testing and ethical hacking labs
-	•	GPU-based cracking tasks (e.g., WPA/WPA2 handshake with wordlists)
-	•	Running any OS I need via virtualization or dual-boot
-	•	Creating a future home server/lab environment
+# 🔧 Primary Use Cases:
+	•	💻 Penetration testing and ethical hacking labs
+	•	⚡ GPU-based cracking (e.g., WPA/WPA2 handshakes with large wordlists)
+	•	🧪 Running custom OSes via virtualization or dual-boot
+	•	🏠 Hosting a home lab/server environment for continuous learning
 
 # 📍 1st Milestone – Planning & Ordering
 
-✅ Hardware planning completed
-✅ All components purchased
-📝 See ״hardware.md״ for full part list and pricing
+✅ Finalized hardware selection
+✅ Purchased all components
+📄 Full part list and pricing can be found in hardware.md
