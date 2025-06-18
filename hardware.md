@@ -44,7 +44,7 @@ This file lists all hardware components used in the project, along with explanat
 	•	Quantity: 1
 	•	Reason: Features built-in fans, good airflow, and an ARGB design that accommodates all components cleanly and efficiently.
 
-# 🪭 Additional Fans – Arctic P12 Silent 120mm (Black) (Currently not sold again)
+# 🪭 Additional Fans – Arctic P12 Silent 120mm (Black) (Currently unavailable)
 	•	Price: $7.14 each (Total: $28.50)
 	•	Quantity: 4
 	•	Reason: Quiet, efficient, and cost-effective fans that improve airflow without adding noise or cost.
