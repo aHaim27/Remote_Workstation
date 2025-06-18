@@ -3,4 +3,4 @@
 
 ✅ Purchased all components
 
-📄 Full part list and pricing can be found in [hardware.md](hardware.md)
+📄 Full part list and pricing can be found in [hardware.md](root/hardware.md)
