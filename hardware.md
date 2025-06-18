@@ -1,45 +1,50 @@
-# 🛠️ Hardware:
+# 🛠️ Hardware Overview
 
-In here you can find all of the components, explanation on why it was chosen and prices.
+This file lists all hardware components used in the project, along with explanations for each choice and their prices.
 
-# ⚙️ The components:
+# ⚙️ Components
 
-# 🧠 The CPU - AMD Ryzen 9 7900 3.7GHz AM5
-Bought for: 486$
-Amount: 1
-Reason: Since my Macbook Pro has a very High-End processing unit, I looked for something that will complement the GPU and that will suit specifcly what I need without over-killing it. a strong-enough CPU but not the most expensive.
+# 🧠 CPU – AMD Ryzen 9 7900 (3.7GHz, AM5)
+	•	Price: $486
+	•	Quantity: 1
+	•	Reason: My MacBook Pro already has a high-end processor, so I aimed for a CPU that balances power with cost. The 7900 is strong enough for my use case without overspending on unnecessary performance, yet still handles complex tasks with ease.
 
-# ❄️ A CPU cooler - Antec VORTEX Lum 240 ARGB AIO
-Bought for: 85.5$
-Amount: 1
-Reason: Looked for a liquid-based cooler that will make my CPU as cold without making it expensive for no reason.
+# ❄️ CPU Cooler – Antec VORTEX Lum 240 ARGB AIO
+	•	Price: $85.50
+	•	Quantity: 1
+	•	Reason: I needed a liquid-based cooler to maintain low CPU temperatures under load without going over budget. This model offers great value for its performance.
 
-# 🧩 The motherboard - MSI PRO B650-S WIFI AMD AM5 B650 DDR5
-Bought for: 237$
-Amount: 1
-Reason: Looked for a motherboard that suits the kind of CPU, allows WIFI connection built-in as a feature, supporte DDR5 and is well-trusted.
+# 🧩 Motherboard – MSI PRO B650-S WIFI (AM5, DDR5)
+	•	Price: $237
+	•	Quantity: 1
+	•	Reason: A reliable AM5 motherboard with built-in Wi-Fi, DDR5 support, and a solid reputation for stability and long-term use.
 
-# 📋 RAM - Kingston ValueRAM 8GB DDR5 5600MHz CL46
-Bought for: 73.7$
-Amount: 2
-Reason: Looked for the cheapest DDR5 that will give me 8GB of RAM.
+# 📋 RAM – Kingston ValueRAM DDR5 5600MHz CL46 (8GB x2)
+	•	Price: $36.85 each (Total: $73.70)
+	•	Quantity: 2 (16GB total)
+	•	Reason: To reduce costs, I selected standard DDR5 sticks that provide sufficient capacity and speed without premium extras like RGB or low latency.
 
-# 🎥 GPU - ASUS GeForce RTX 3070 8GB (GA104) - USED!!
-Bought for: 329$
-Amount: 1
-Reason: Gives enough juice without being extra expensive the way the GPU market likes to be. needed to test it a little bit, added the results in photos directory.
+# 🎥 GPU – ASUS GeForce RTX 3070 8GB (GA104) (Used)
+	•	Price: $329
+	•	Quantity: 1
+	•	Reason: This used GPU delivers excellent performance for GPU-heavy tasks like handshake cracking, while avoiding inflated prices. I tested its performance — results are available in the photos/ directory.
 
-# 📦 SSD Driver - Kingston NV3 PCIe 4.0 x4 NVMe M.2 2280 500GB SSD
-Bought for: 51.21$
-Amount: 1
-Reason: A fast driver, supports my NVMe and not making me go out of budget
+# 📦 SSD – Kingston NV3 NVMe PCIe 4.0 x4 M.2 (500GB)
+	•	Price: $51.21
+	•	Quantity: 1
+	•	Reason: A fast and affordable NVMe SSD that keeps the system responsive and fits within the budget.
 
-# ⚡️ Modular power supply - MSI MPG A1000GS PCIE5 1000W 80 PLUS Gold
-Bought for: 228$
-Amount: 1
-Reason: a power supply with modular ability for minimum cable managment, a 80 PLUS Gold score and an ability to upgrade other parts in the setup without needing to upgrade the power supply too.
+# ⚡ PSU – MSI MPG A1000GS (PCIe 5.0, 1000W, 80+ Gold, Modular)
+	•	Price: $228
+	•	Quantity: 1
+	•	Reason: A future-proof, modular PSU with plenty of headroom for future upgrades and excellent efficiency.
 
-# 🧰 Case - Antec CX800 ARGB ATX Mid Tower
-Bought for: 82.61$
-Amount: 1
-Reason: has built-in fans with ability to add more, has a nice look and fits all the components in it.
+# 🧰 Case – Antec CX800 ARGB ATX Mid Tower
+	•	Price: $82.61
+	•	Quantity: 1
+	•	Reason: Features built-in fans, good airflow, and an ARGB design that accommodates all components cleanly and efficiently.
+
+# 🪭 Additional Fans – Arctic P12 Silent 120mm (Black)
+	•	Price: $7.14 each (Total: $28.50)
+	•	Quantity: 4
+	•	Reason: Quiet, efficient, and cost-effective fans that improve airflow without adding noise or cost.
