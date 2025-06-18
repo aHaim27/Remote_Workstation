@@ -17,7 +17,6 @@ Instead of replacing my MacBook, chose a more creative path. Building a remote c
 	•	🏠 Hosting a home lab/server environment for continuous learning
 
 # 📍 1st Milestone – Planning & Ordering
-
-✅ Finalized hardware selection
-✅ Purchased all components
-📄 Full part list and pricing can be found in hardware.md
+• ✅ Finalized hardware selection
+• ✅ Purchased all components
+• 📄 Full part list and pricing can be found in hardware.md
