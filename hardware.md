@@ -53,3 +53,5 @@ This file lists all hardware components used in the project, along with explanat
 	•	Price: $6
 	•	Quantity: 1
 	•	Reason: A high-quality thermal paste that enhances heat transfer between the CPU and cooler, helping maintain low temperatures under load.
+
+# 💰 Total Expense - $1,607.5
