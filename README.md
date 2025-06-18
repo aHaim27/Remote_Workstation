@@ -8,7 +8,7 @@ This project started out of frustration — yet quickly turned into creativity.
 
 Although I own a top-tier MacBook Pro (M4 Max, 64GB RAM), I kept hitting limitations — especially when dealing with ethical hacking labs and GPU-intensive operations. Apple’s ecosystem often restricts access to essential tools, OS customization, and hardware acceleration (e.g., GPU cracking).
 
-Instead of replacing my MacBook, chose a more creative path. Building a remote companion — a machine I can access from anywhere, power on/off remotely, and use for tasks that macOS unfortunately restrict.
+Instead of replacing my MacBook, I chose a more creative path. Building a remote companion — a machine I can access from anywhere, power on/off remotely, and use for tasks that macOS unfortunately restrict.
 
 # 🔧 Primary Use Cases:
 	•	💻 Penetration testing and ethical hacking labs
