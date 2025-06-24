@@ -1,0 +1,1 @@
+# In this folder you will be able to find automated and ready-to-use tools and codes I use on my own setup
