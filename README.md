@@ -2,6 +2,7 @@
 
 Remote_Workstation is my self-built cybersecurity lab.  
 I’m a combat officer in the IDF, building this system to practice ethical hacking and red team operations remotely — from any location.
+
 This repository documents the process of building a powerful remote-access workstation, designed to compliment my MacBook Pro and expand its capabilities for ethical hacking and high-performance tasks.
 
 # 🧠⚙️ Thought Process
