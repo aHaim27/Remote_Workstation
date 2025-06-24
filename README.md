@@ -18,3 +18,7 @@ Instead of replacing my MacBook, I chose a more creative path. Building a remote
 	•	⚡ GPU-based cracking (e.g., WPA/WPA2 handshakes with large wordlists)
 	•	🧪 Running custom OSes via virtualization or dual-boot
 	•	🏠 Hosting a home lab/server environment for continuous learning
+
+![Linux](https://img.shields.io/badge/System-Ubuntu%20Server-blue)
+![Status](https://img.shields.io/badge/Stage-Building-yellow)
+![GitHub](https://img.shields.io/badge/Mission-Offensive%20Security-red)
