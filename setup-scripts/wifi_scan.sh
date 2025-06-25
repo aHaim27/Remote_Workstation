@@ -1,4 +1,4 @@
-#In this .sh file, are the commands I use in order to scan quickly Wifi networks and find their BSSID for further use.
+#In this .sh file, are the commands I use in order to scan quickly Wifi networks and find their BSSID for further use such as caputring a handshake.
 
 #this file is written for a network card called "wlan0" but you can change it to what ever your network card is called
 
@@ -12,4 +12,4 @@ ifconfig wlan0 up
 airodump-ng wlan0
 
 #for further use and selecting your desired network, do:
-#airodump-ng --bssid {wifi bssid} --channel {wifi channel} wlan0
+#airodump-ng --bssid {wifi bssid} --channel {wifi channel} --write {name for handshake file} wlan0
