@@ -31,10 +31,10 @@
 - 📡 Tried capturing EAPOL packets with Wireshark and attacking the handshake with Hashcat.
   Learned that a full 4-way WPA handshake is required, not just any EAPOL packet.
   
-  ✅ **Lesson:** Use aircrack-ng or hcxpcapngtool for better control and results.
+  ✅ **Lesson:** Use aircrack-ng and hcxpcapngtool for better control and results.
 
 - 💽 Connected an old 2TB HDD for logs and wordlists.
-  Accidentally extracted a huge file (~15GB) to the main SSD after the HDD dismounted.
+  Accidentally extracted a huge wordlist file (~250GB) to the main SSD after the HDD dismounted.
   
   ✅ **Lesson:** Always verify mount points before unpacking or writing large files.
 
