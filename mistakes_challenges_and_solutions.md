@@ -6,21 +6,25 @@
   What the software needs, how to meet those needs without over-spending in a flashy and tempting market.
 
 - 💸 For example, I purchased **4 additional case fans**, even though I already had **5 fans total** (3 included in the case and 2 for the liquid cooler).  
-  ✅ **Lesson:** The urge to buy unnecessary parts is real – stay focused on **performance, not aesthetics**.
+  
+✅ **Lesson:** The urge to buy unnecessary parts is real – stay focused on **performance, not aesthetics**.
 
 - ⚔️ The biggest challenge was (and still is) **balancing my tech enthusiasm with my military service**.  
   Learning on-duty feels **slow and overwhelming**, but at the same time, I’ve learned to **value focus and discipline** when studying at home.  
-  ✅ **Lesson:** Accept the constraints and make them work **in your favor**.
+  
+✅ **Lesson:** Accept the constraints and make them work **in your favor**.
 
 ## 📅 July – Deeper Into Practice
 
 - 🔌 After all workstation parts arrived, I realized the **PSU didn’t match the GPU requirements** – it had only 3 × Type 4 connectors, while my RTX 3070 needed 4.  
   I upgraded to a **Corsair RM1000x** (1000W, modular, Gold-rated).  
-  ✅ **Lesson:** Always check **power and connector compatibility** before buying.
+  
+✅ **Lesson:** Always check **power and connector compatibility** before buying.
 
 - 💻 I wiped Windows off my secondary laptop (Asus Zenbook) and installed **Kali Linux** for practice while in the field.  
   The **MacBook is too valuable** to bring into risky environments.  
-  ✅ **Lesson:** Use **dedicated, replaceable hardware** for hacking environments.
+  
+✅ **Lesson:** Use **dedicated, replaceable hardware** for hacking environments.
 
 - 🔥 While running Hashcat, my **GPU overheated and halted the process**. To limit power draw, reducing temperature and allowing continuous crackin, I used:
   ```bash
