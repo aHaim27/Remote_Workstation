@@ -26,16 +26,16 @@
   ```bash
   sudo nvidia-smi -pl 190
 
- ✅ Lesson: Don’t just chase raw power – thermal management is key.
+  ✅ **Lesson:** Don’t just chase raw power – thermal management is key.
 
 - 📡 Tried capturing EAPOL packets with Wireshark and attacking the handshake with Hashcat.
   Learned that a full 4-way WPA handshake is required, not just any EAPOL packet.
-  ✅ Lesson: Use aircrack-ng or hcxpcapngtool for better control and results.
+  ✅ **Lesson:** Use aircrack-ng or hcxpcapngtool for better control and results.
 
 - 💽 Connected an old 2TB HDD for logs and wordlists.
   Accidentally extracted a huge file (~15GB) to the main SSD after the HDD dismounted.
-  ✅ Lesson: Always verify mount points before unpacking or writing large files.
+  ✅ **Lesson:** Always verify mount points before unpacking or writing large files.
 
 - 🍏 General insight: The Apple ecosystem is great for studying – intuitive interface, fast, reliable.
   But for hacking, it’s restrictive. Lack of hardware-level access and compatibility with critical tools slows things down.
-  ✅ Lesson: For serious practice, Linux wins. Flexibility > polish.
+  ✅ **Lesson:** For serious practice, Linux wins. Flexibility > polish.
