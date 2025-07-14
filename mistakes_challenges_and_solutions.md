@@ -26,7 +26,7 @@
   ```bash
   sudo nvidia-smi -pl 190
 
-  ✅ **Lesson:** Don’t just chase raw power – thermal management is key.
+✅ **Lesson:** Don’t just chase raw power – thermal management is key.
 
 - 📡 Tried capturing EAPOL packets with Wireshark and attacking the handshake with Hashcat.
   Learned that a full 4-way WPA handshake is required, not just any EAPOL packet.
