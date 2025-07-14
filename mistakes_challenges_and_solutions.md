@@ -1,7 +1,5 @@
 # ⏩ Mistakes and Challenges I Faced During This Project
 
----
-
 ## 📅 June – The Learning Curve Begins
 
 - 🧠 The main challenge of building a workstation like this is **understanding the relationship between hardware and software**.  
@@ -14,8 +12,6 @@
   Learning on-duty feels **slow and overwhelming**, but at the same time, I’ve learned to **value focus and discipline** when studying at home.  
   ✅ **Lesson:** Accept the constraints and make them work **in your favor**.
 
----
-
 ## 📅 July – Deeper Into Practice
 
 - 🔌 After all workstation parts arrived, I realized the **PSU didn’t match the GPU requirements** – it had only 3 × Type 4 connectors, while my RTX 3070 needed 4.  
@@ -26,18 +22,20 @@
   The **MacBook is too valuable** to bring into risky environments.  
   ✅ **Lesson:** Use **dedicated, replaceable hardware** for hacking environments.
 
-- 🔥 While running Hashcat, my **GPU overheated and halted the process**.  
-  I used:
+- 🔥 While running Hashcat, my **GPU overheated and halted the process**. To limit power draw, reducing temperature and allowing continuous crackin, I used:
   ```bash
   sudo nvidia-smi -pl 190
-  to limit power draw, reducing temperature and allowing continuous cracking.
-  ✅ Lesson: Don’t just chase raw power – thermal management is key.
-	•	📡 Tried capturing EAPOL packets with Wireshark and attacking the handshake with Hashcat.
+
+ ✅ Lesson: Don’t just chase raw power – thermal management is key.
+
+- 📡 Tried capturing EAPOL packets with Wireshark and attacking the handshake with Hashcat.
   Learned that a full 4-way WPA handshake is required, not just any EAPOL packet.
   ✅ Lesson: Use aircrack-ng or hcxpcapngtool for better control and results.
-	•	💽 Connected an old 2TB HDD for logs and wordlists.
+
+- 💽 Connected an old 2TB HDD for logs and wordlists.
   Accidentally extracted a huge file (~15GB) to the main SSD after the HDD dismounted.
   ✅ Lesson: Always verify mount points before unpacking or writing large files.
-	•	🍏 General insight: The Apple ecosystem is great for studying – intuitive interface, fast, reliable.
+
+- 🍏 General insight: The Apple ecosystem is great for studying – intuitive interface, fast, reliable.
   But for hacking, it’s restrictive. Lack of hardware-level access and compatibility with critical tools slows things down.
   ✅ Lesson: For serious practice, Linux wins. Flexibility > polish.
