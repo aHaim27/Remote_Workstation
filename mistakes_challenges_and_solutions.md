@@ -1,26 +1,43 @@
-## ⏩ Mistakes and challenges I faced during this project:
+# ⏩ Mistakes and Challenges I Faced During This Project
 
-# • June:
-- The main part of building a workstation such as this is understanding the relationship between hardware and software.
-What the software needs and how the hardware fits that specific purpose without over-spending in a very flashy market.
+---
 
-for example, I purchased 4 additional fans while having a total of 5 fans already (3 inside the case and 2 for the liquid cooler).
-the urge to buy useless stuff is something to stay focused on ignoring.
+## 📅 June – The Learning Curve Begins
 
-- The biggest challenge I faced to this very day is learning to balance my tech enthusiasm along side with my military service.
-this makes me feel slow and over-whelmed when studing on-duty but I am a very motivated person and it makes me focus and more discipline while studing at home.
+- 🧠 The main challenge of building a workstation like this is **understanding the relationship between hardware and software**.  
+  What the software needs, how to meet those needs without over-spending in a flashy and tempting market.
 
-# • July:
-- All of the parts arrived and the PSU couldn't fit properly with the GPU. it only had 3 Type 4 connections while I needed 4. Since the GPU couldn't even boot up, I had to switch to a new PSU. I chose Corsair RM1000x 1000W Gold 13.5cm Fan Modular ATX PSU for future-proof and compatability.
+- 💸 For example, I purchased **4 additional case fans**, even though I already had **5 fans total** (3 included in the case and 2 for the liquid cooler).  
+  ✅ **Lesson:** The urge to buy unnecessary parts is real – stay focused on **performance, not aesthetics**.
 
-- I switched my secondary laptop's (Asus Zenbook) OS from Windows to Kali for practice while being at the military. The macbook is too expensive to carry for practice while being in dangerous locations.
+- ⚔️ The biggest challenge was (and still is) **balancing my tech enthusiasm with my military service**.  
+  Learning on-duty feels **slow and overwhelming**, but at the same time, I’ve learned to **value focus and discipline** when studying at home.  
+  ✅ **Lesson:** Accept the constraints and make them work **in your favor**.
 
-- While running Hashcat my GPU ran too hot and stopped the process. I learned that limiting the power supplied to the GPU helps with that. I used the command:
+---
 
-sudo nvidia-smi -pl 190
+## 📅 July – Deeper Into Practice
 
-- I tried capturing a EAPOL file through Wireshark and use the EAPOL with Hashcat to find my Wifi password and learned that I need proper 4 way handshake and not only the EAPOL. collecting with aircrack-ng gave better results.
+- 🔌 After all workstation parts arrived, I realized the **PSU didn’t match the GPU requirements** – it had only 3 × Type 4 connectors, while my RTX 3070 needed 4.  
+  I upgraded to a **Corsair RM1000x** (1000W, modular, Gold-rated).  
+  ✅ **Lesson:** Always check **power and connector compatibility** before buying.
 
-- I found an old 2TB 2.5" HDD and connected it to my Workstation. I tried using it for logs and wordlists currently and had a problem where after setting it up it dismounted and I un-zipped a wordlist in my small ssd. Had to re-mount it for access and learned to check before extracting a file.
+- 💻 I wiped Windows off my secondary laptop (Asus Zenbook) and installed **Kali Linux** for practice while in the field.  
+  The **MacBook is too valuable** to bring into risky environments.  
+  ✅ **Lesson:** Use **dedicated, replaceable hardware** for hacking environments.
 
-- General take from this month: The Apple eco-system is great for studing for it's intuitive interface and connectivity but unusable for most ethical hacking tools since it's holds you back from using the entire raw power of your hardware. It's better to use a different ecosystem for practice for it's better suiting-cutomablitiy.
+- 🔥 While running Hashcat, my **GPU overheated and halted the process**.  
+  I used:
+  ```bash
+  sudo nvidia-smi -pl 190
+  to limit power draw, reducing temperature and allowing continuous cracking.
+  ✅ Lesson: Don’t just chase raw power – thermal management is key.
+	•	📡 Tried capturing EAPOL packets with Wireshark and attacking the handshake with Hashcat.
+  Learned that a full 4-way WPA handshake is required, not just any EAPOL packet.
+  ✅ Lesson: Use aircrack-ng or hcxpcapngtool for better control and results.
+	•	💽 Connected an old 2TB HDD for logs and wordlists.
+  Accidentally extracted a huge file (~15GB) to the main SSD after the HDD dismounted.
+  ✅ Lesson: Always verify mount points before unpacking or writing large files.
+	•	🍏 General insight: The Apple ecosystem is great for studying – intuitive interface, fast, reliable.
+  But for hacking, it’s restrictive. Lack of hardware-level access and compatibility with critical tools slows things down.
+  ✅ Lesson: For serious practice, Linux wins. Flexibility > polish.
